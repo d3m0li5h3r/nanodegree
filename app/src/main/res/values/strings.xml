@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Project Zero</string>
+
+    <string name="launch_message">This button will launch my %1$s project</string>
+
+    <string name="movies">movies</string>
+    <string name="stock">stock</string>
+    <string name="build_bigger">build it bigger</string>
+    <string name="material">material</string>
+    <string name="ubiquitous">ubiquitous</string>
+    <string name="capstone">capstone</string>
+
+    <string name="label_nanodegree_apps">My Nanodegree Apps</string>
+    <string name="app_movies">Popular Movies</string>
+    <string name="app_stock">Stock Hawk</string>
+    <string name="app_build_bigger">build it bigger</string>
+    <string name="app_material">make your app material</string>
+    <string name="app_ubiquitous">go ubiquitous</string>
+    <string name="app_capstone">capstone: my own app</string>
+</resources>
